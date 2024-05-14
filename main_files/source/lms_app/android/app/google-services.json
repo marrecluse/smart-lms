@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "209687589742",
+    "project_id": "smart-lms-af0eb",
+    "storage_bucket": "smart-lms-af0eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209687589742:android:b09100371f810c69c9077f",
+        "android_client_info": {
+          "package_name": "com.smart.lms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209687589742-o15pabftngmctveaiaqorp8hpv1v32jt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smart.lms",
+            "certificate_hash": "39056f16f6bed9268dadcdbab154b9ac6d981a57"
+          }
+        },
+        {
+          "client_id": "209687589742-opl7qn801hu66gu7m6fm0djemf0qcbo0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smart.lms",
+            "certificate_hash": "dfd112ce61b301867c4a05776119270ec6cf746a"
+          }
+        },
+        {
+          "client_id": "209687589742-rp9goitthavimrc0i6ok08bo5r8qi79b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiF-nwMSMeHP3hQaUnSnF6ZbYvT4RO0Xw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209687589742-rp9goitthavimrc0i6ok08bo5r8qi79b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "209687589742-q7om9fk6dsors7e0s2oieb15ji6ft7u5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mrblab.primelms"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
